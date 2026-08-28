@@ -291,7 +291,6 @@ export default function Home() {
                   src={`https://www.instagram.com/reel/${reelId}/embed`}
                   className="w-full h-full border-0 absolute inset-0 z-0"
                   scrolling="no" 
-                  allowtransparency="true"
                   allow="encrypted-media"
                 ></iframe>
                 
