@@ -138,6 +138,8 @@ export default function Home() {
                   src="/profile_pic.jpeg" 
                   alt="Ayush Kushwaha" 
                   fill
+                  priority
+                  sizes="(max-width: 768px) 288px, 384px"
                   className="rounded-full object-cover border-4 border-neutral-900 shadow-2xl relative z-10"
                 />
               </motion.div>
